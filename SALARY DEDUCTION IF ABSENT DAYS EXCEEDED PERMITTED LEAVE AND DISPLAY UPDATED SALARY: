@@ -1,6 +1,3 @@
-
-2.SALARY DEDUCTION IF ABSENT DAYS EXCEEDED PERMITTED LEAVE AND DISPLAY UPDATED SALARY:
-
 s=float(input("enter the salary"))
 n=int(input("enter the NUMBER OF DAYS ABSENT:"))
 d=int(input("enter the NUMBER OF DAYS LEAVE PERMITTED:"))
