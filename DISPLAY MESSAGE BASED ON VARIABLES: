@@ -1,6 +1,3 @@
-5.DISPLAY MESSAGE BASED ON VARIABLES:
-(temperature and humidity)
-
 t=input("enter temperature(warm/cold):")
 h=input("enter humidity(dry/humid):")
 if t=="warm":
