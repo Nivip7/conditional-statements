@@ -1,6 +1,3 @@
-
-3.RIGHT ANGLED ALPHABET PYRAMID(A-Z):
-
 n=int(input("rows:"))
 print("right angled pyramid with triangle")
 for i in range(n):
