@@ -1,7 +1,3 @@
-[hackerrank problem]
-
- weird or not weird:>>python if else
-
 n=int(input())
 if n%2==1:
    print("weird")
